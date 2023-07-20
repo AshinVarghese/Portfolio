@@ -13,8 +13,8 @@ import {
   nodejs,
   mongodb,
   git,
-  figma,
-  docker,
+  dotNET,
+  SQL,
   JKTech,
   Vendekin,
   OASYS,
@@ -100,12 +100,12 @@ const technologies = [
     icon: git,
   },
   {
-    name: "figma",
-    icon: figma,
+    name: ".Net",
+    icon: dotNET,
   },
   {
-    name: "docker",
-    icon: docker,
+    name: "SQL",
+    icon: SQL,
   },
 ];
 
