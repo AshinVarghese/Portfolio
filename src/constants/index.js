@@ -189,66 +189,77 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Book recommendation system",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Utilized skills in Python, Machine Learning, ReactJS, and Heroku to create a personalized book recommendation system based on past activities.",
     tags: [
       {
-        name: "react",
+        name: "Python",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "ReactJS",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Heroku",
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "Baby Care app",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Utilized skills in Android Development, Java, SQLite, and UX Design to create an app that keeps track of a child's activities such as feeding, pumping, sleep, and medicine.",
     tags: [
       {
-        name: "react",
+        name: "Android",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "Java",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "SQLite",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "Smart Room IOT",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Utilized skills in IOT and Arduino UNO to create a system that automatically controlled the temperature and lighting based on human presence.",
     tags: [
       {
-        name: "nextjs",
+        name: "IOT",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Arduino UNO",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "PHP",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    source_code_link: "https://github.com/AshinVarghese/food-delivery-system",
+  },
+  {
+    name: "Food Delivery system",
+    description:
+      "Quick bites food delivery system which hepls you to order food and make payments.",
+    tags: [
+      {
+        name: "HTML",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "CSS",
+        color: "green-text-gradient",
+      },
+    ],
     source_code_link: "https://github.com/",
   },
 ];
